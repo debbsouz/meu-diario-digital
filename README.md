@@ -1,28 +1,47 @@
-# 📓 Meu Diário Digital  
+# Meu Diário Digital
 
-Um projeto pessoal desenvolvido para registrar pensamentos, anotações e ideias de forma digital e organizada.  
-
----
-
-## ✨ Funcionalidades 
-✔️ Criar anotações  
-✔️ Editar e excluir anotações  
-✔️ Interface simples e intuitiva  
-✔️ Armazenamento local no navegador  
+> Um diário digital para organizar suas notas, anotações e registros do dia a dia de forma simples e prática.
 
 ---
 
-## 🚀 Tecnologias  
-Este projeto foi desenvolvido utilizando:  
+## Descrição
 
-- **HTML5** 🌐  
-- **CSS3** 🎨  
-- **JavaScript** ⚡  
+Este projeto foi desenvolvido para ajudar na organização pessoal, permitindo criar, visualizar e gerenciar anotações rapidamente. Possui interface intuitiva e funcionalidades essenciais para um diário digital.
 
 ---
 
-## 📂 Como usar  
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages (para hospedagem, se aplicável)
+
+---
+
+## Prints do Projeto
+
+### Tela Inicial
+![Tela Inicial](assets/print-inicial.png)
+
+### Notas
+![Notas](assets/print-nota.png)
+
+### Anotações
+![Anotações](assets/print-anotacao.png)
+
+---
+
+## Funcionalidades
+
+- Adicionar novas notas e anotações
+- Editar e remover entradas existentes
+- Organização das informações de forma clara e intuitiva
+
+---
+
+## Como Executar
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/meu-diario-digital.git
+```bash
+git clone https://github.com/seu-usuario/meu-diario-digital.git
